@@ -1,0 +1,77 @@
+Target market
+--
+Prospective instructors need a system to manage their business
+
+# Instructor
+- Public profile
+-- Registration:
+---- Telephone number for account ID
+---- Name, address, email, etc
+---- Stripe for payment processing
+---- Area coverage, mileage, base of operation
+-- Certification
+---- Driving license, insurance, vehicle registration
+-- Vehicle
+---- Ownership/lease, finance, payments
+
+# Accounting
+- Vehicle (insurance, tax, lease, etc)
+- Lessons (fuel, travel, toll roads, )
+- Insurance (breakdown, recovery)
+
+# Expenses
+Instructor:
+- Vehicle, fuel, cost and maintenance
+
+# Lessons
+- Content
+-- Highway code
+-- Supprt for instructors own documents and content
+---- Document storage: PDF/Office/HTML/etc
+- Scheduling
+
+# Customers
+- Ratings, comments
+
+- Route planner, traffic notices
+- Accounting for finance
+- Learner booking system
+- Logging and reporting
+-- Expenses, fuel, time, etc
+
+- Customer directory
+-- Ratings
+-- Progress
+--
+Document storage
+- Qualifications and certifications
+- Learning material
+
+# Learner
+----
+- Public profile
+- instructor directory listing
+- Progress, achievements, rewards
+-- Hours, manouvers
+- Timer, lesson tracker, routes
+- Instructor rating, comments
+
+# Revenue
+- Instructor signup
+- Advertisements:
+-- Fullscreen view
+-- Banner amongst lists
+-- Docked banners
+-- Pay to disable
+
+- Application cost:
+-- In app purchases to disable adverts, and/or gain additional features
+-- Modular design, pay to enable features
+-- Promoted directory listing
+-- Learning material
+-- Training sessions
+-- Support for application usage, and how to be a better instructor
+-- Affiliate scheme for app installs
+
+- Incentives
+-- Instructors can create deals and promotions for lesson packages, affiliate recommendations, etc
